@@ -5,6 +5,8 @@ public class File2 {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World");
 		System.out.println("new line.");
+		Integer i;
+		
 	}
 
 }
