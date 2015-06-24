@@ -6,7 +6,6 @@ public class File2 {
 		System.out.println("Hello World");
 		System.out.println("new line.");
 		System.out.println("change made");
-		
 	}
 
 }
